@@ -1,2 +1,2 @@
 # hello_world
-first try
+THIS IS JUST TO LEARN! Let me check GIThub
